@@ -12,7 +12,7 @@ This project demonstrates the implementation of a Library Management System usin
 
 ### 1. Database Setup
 
-![Library_project](https://github.com/umangg07/Umang-LIbrary-Management-Project/commit/523cd4e29c353b13cde88ba545821fcf7948b1a8)
+![Library_project](https://github.com/umangg07/Umang-LIbrary-Management-Project/blob/main/erd.jpg)
 
 - **Database Creation**: Created a database named `library_db`.
 - **Table Creation**: Created tables for branches, employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
